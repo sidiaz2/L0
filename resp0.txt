@@ -1,8 +1,250 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
 \margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 esto es la prima actualizacion al archivo de texto}
+\f0\fs22 \cf2 \CocoaLigature0     1  /Users/Checho/Downloads/rar/rar ; exit;\
+    2  /Users/Checho/Downloads/rar/unrar ; exit;\
+    3  cd '/Users/Checho/Desktop/Universidad/2014-2 semestre/Intro a la Progra/Tarea 2/' && '/usr/bin/pythonw'  '/Users/Checho/Desktop/Universidad/2014-2 semestre/Intro a la Progra/Tarea 2/tarea 2.py'  && echo Exit status: $? && exit 1\
+    4  hola\
+    5  cd desktop\
+    6  cd iic1103\
+    7  ls\
+    8  python\
+    9  cd desktop\
+   10  cd iic1103\
+   11  ls\
+   12  python\
+   13  git\
+   14  python\
+   15  cd desktop\
+   16  cd iic1103\
+   17  instalar.py sidiaz2\
+   18  cd desktop\
+   19  cd iic1003\
+   20  cd iic1103\
+   21  instalar.py sidiaz2\
+   22  instalar.py\
+   23  cd desktop\
+   24  cd iic1103\
+   25  python instalar.py\
+   26  python instalar.py sidiaz2.zip\
+   27  cd .ssh\
+   28  ls\
+   29  chmod 700 *\
+   30  ls\
+   31  cd ..\
+   32  cd Desktop/\
+   33  ls\
+   34  cd IIC1103/\
+   35  ls\
+   36  git clone edx.ing.puc.cl:entregas.git\
+   37  git clone edx.ing.puc.cl:/home/iic1103/enunciados2015s1.git\
+   38  ls\
+   39  cd entregas\
+   40  ls\
+   41  git add .\
+   42  git commit -m "lab1"\
+   43  git push origin master\
+   44  cd desktop\
+   45  cd desktop\
+   46  cd iic1103\
+   47  cd entregas\
+   48  git add.\
+   49  cd desktop\
+   50  cd iic1103\
+   51  cd entregas\
+   52  cd martes 31\
+   53  cd martes31\
+   54  cd "martes 31"\
+   55  git add.\
+   56  git add\
+   57  git add .\
+   58  git commit -m "1.py"\
+   59  git commit -m "2.py"\
+   60  git push origin master\
+   61  git add .\
+   62  git commit -m "2.py"\
+   63  git commit -m "2.py"\
+   64  git push origin master\
+   65  cd desktop\
+   66  cd iic1103\
+   67  cd entregas\
+   68  cd lab 2\
+   69  cd lab2\
+   70  cd lab_2\
+   71  cd lab 2\
+   72  cd lab 2\
+   73  cd lab:2\
+   74  cd lab-2\
+   75  cd lab 2\
+   76  cd\
+   77  ls\
+   78  Desktop\
+   79  ls\
+   80  Desktop\
+   81  ls\
+   82  cd\
+   83  cd Desktop\
+   84  cd ampl_macosx64\
+   85  /ampl\
+   86  /Users/Checho/Desktop/ampl_macosx64/ampl\
+   87  /Users/Checho/Desktop/AMPL/ampl ; exit;\
+   88  /Users/Checho/Desktop/AMPL/cplex ; exit;\
+   89  /Users/Checho/Desktop/AMPL/gurobi ; exit;\
+   90  /Users/Checho/Desktop/AMPL/ilogcp ; exit;\
+   91  /Users/Checho/Desktop/AMPL/knitro ; exit;\
+   92  /Users/Checho/Desktop/AMPL/lgo ; exit;\
+   93  /Users/Checho/Desktop/AMPL/locsol ; exit;\
+   94  /Users/Checho/Desktop/AMPL/minos ; exit;\
+   95  /Users/Checho/Desktop/AMPL/snopt ; exit;\
+   96  /Users/Checho/Desktop/AMPL/xpress ; exit;\
+   97  /Users/Checho/Desktop/AMPL/baron ; exit;\
+   98  /Users/Checho/Desktop/AMPL/conopt ; exit;\
+   99  /Users/Checho/Desktop/AMPL/cplex ; exit;\
+  100  /Users/Checho/Desktop/AMPL/ampl ; exit;\
+  101  /Users/Checho/Desktop/UC/2017-1\\ semestre/M\'e9todos\\ de\\ Optimizaci\'f3n/proyecto/SNDB_spectra/sn1990aa-19901020-opt2.flm ; exit;\
+  102  /Users/Checho/Downloads/fingerprint ; exit;\
+  103  from biogeme import*\
+  104  from biogeme import *\
+  105  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"\
+  106  brew install biogeme\
+  107  from biogeme import *\
+  108  pythonbiogeme siwssmetro biogeme_BDEDmp.csv\
+  109  pythonbiogeme MNL Datos Ejemplo MNL HL.csv\
+  110  pythonbiogeme MNL Datos Ejemplo MNL HL.csv\
+  111  pythonbiogeme MNL datos.csv\
+  112  pythonbiogeme MNL data.csv\
+  113  pythonbiogeme MNL data.csv\
+  114  pythonbiogeme MNL data.csv\
+  115  pythonbiogeme especificacion swissmetro.csv\
+  116  pythonbiogeme especificacion swissmetro.csv\
+  117  pythonbiogeme especificacion swissmetro.csv\
+  118  biopreparedata swissmetro.csv\
+  119  pythonbiogeme biopreparedata swissmetro.csv\
+  120  biopreparedata swissmetro.csv\
+  121  biocheckdata biogeme_swissmetro.csv\
+  122  pythonbiogeme especificacion biogeme_swissmetro.csv\
+  123  biopreparedata data.csv\
+  124  pythonbiogeme MNL biogeme_data.csv\
+  125  pythonbiogeme HLbeta  biogeme_data.csv\
+  126  biopreparedata Laboratorio3.csv\
+  127  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  128  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  129  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  130  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  131  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  132  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  133  biopreparedata Laboratorio4.csv\
+  134  pythonbiogeme HL1 biogeme_Laboratorio4.csv\
+  135  pythonbiogeme HL1 biogeme_Laboratorio4.csv\
+  136  pythonbiogeme HL1 biogeme_Laboratorio4.csv\
+  137  pythonbiogeme HL1 biogeme_Laboratorio4.csv\
+  138  pythonbiogeme HL1 biogeme_Laboratorio4.csv\
+  139  pythonbiogeme HL1 biogeme_Laboratorio4.csv\
+  140  pythonbiogeme HL2 biogeme_Laboratorio4.csv\
+  141  pythonbiogeme HL2 biogeme_Laboratorio4.csv\
+  142  pythonbiogeme HL2 biogeme_Laboratorio4.csv\
+  143  pythonbiogeme HL3 biogeme_Laboratorio4.csv\
+  144  pythonbiogeme HL3 biogeme_Laboratorio4.csv\
+  145  pythonbiogeme HL3 biogeme_Laboratorio4.csv\
+  146  pythonbiogeme HL3 biogeme_Laboratorio4.csv\
+  147  pythonbiogeme HL4 biogeme_Laboratorio4.csv\
+  148  biopreparedata bd.csv\
+  149  biopreparedata bd.csv\
+  150  pythonbiogeme ejec biogeme_bd.csv\
+  151  pythonbiogeme ejec biogeme_bd.csv\
+  152  pythonbiogeme ejec biogeme_bd.csv\
+  153  pythonbiogeme ejec biogeme_bd.csv\
+  154  biopreparedata bd.csv\
+  155  biopreparedata bd.csv\
+  156  pythonbiogeme ejec biogeme_bd.csv\
+  157  pythonbiogeme ejec biogeme_bd.csv\
+  158  biopreparedata bd.csv\
+  159  pythonbiogeme ejec biogeme_bd.csv\
+  160  pythonbiogeme ejec biogeme_bd.csv\
+  161  pythonbiogeme ejec biogeme_bd.csv\
+  162  pythonbiogeme ejec biogeme_bd.csv\
+  163  biopreparedata bd.csv\
+  164  biocheckdata biogeme_bd.csv\
+  165  pythonbiogeme ejec biogeme_bd.csv\
+  166  pythonbiogeme ejec biogeme_bd.csv\
+  167  pythonbiogeme ejec biogeme_bd.csv\
+  168  biopreparedata bd.csv\
+  169  biogeme ejec biogeme_bd.csv\
+  170  pythonbiogeme ejec biogeme_bd.csv\
+  171  pythonbiogeme ejec biogeme_bd.csv\
+  172  pythonbiogeme ejec biogeme_bd.csv\
+  173  pythonbiogeme ejec biogeme_bd.csv\
+  174  pythonbiogeme ejec biogeme_bd.csv\
+  175  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  176  pythonbiogeme ejec biogeme_Laboratorio3.csv\
+  177  biopreparedata bd.csv\
+  178  pythonbiogeme ejec biogeme_bd.csv\
+  179  biopreparedata bd.csv\
+  180  pythonbiogeme ejec biogeme_bd.csv\
+  181  pythonbiogeme ejec biogeme_bd.csv\
+  182  biopreparedata bd.csv\
+  183  pythonbiogeme ejec biogeme_bd.csv\
+  184  biopreparedata bd.csv\
+  185  biopreparedata bd.csv\
+  186  pythonbiogeme ejec biogem_bd.csv\
+  187  pythonbiogeme ejec biogeme_bd.csv\
+  188  biopreparedata bd.csv\
+  189  pythonbiogeme ejec biogeme_bd.csv\
+  190  pythonbiogeme ejec biogeme_bd.csv\
+  191  pythonbiogeme ejec biogeme_bd.csv\
+  192  touch - mt201711201500.00 /Users/Checho/Desktop/BD.xlsx\
+  193  touch -t201711201500.00 /Users/Checho/Desktop/BD.xls\
+  194  touch -mt201711201500.00 /Users/Checho/Desktop/BD.xls\
+  195  killall Dock\
+  196  cd /Users/Checho/Desktop/mupen64plus-1.99.4-osx/x86_64 \
+  197  ./run_arach.sh Mario\\ Kart\\ 64\\ \\(Europe\\)\\ \\(Rev\\ A\\).n64 \
+  198  ./run_glide.sh Mario\\ Kart\\ 64\\ \\(Europe\\)\\ \\(Rev\\ A\\).n64 \
+  199  ls\
+  200  cd Desktop/\
+  201  git clone https://github.com/IIC2115/Syllabuss\
+  202  cd Desktop/\
+  203  git clone https://github.com/IIC2115/Syllabus\
+  204  cd Syllabus/\
+  205  ls\
+  206  git add *\
+  207  git commit -m "simone renard es en verdad paul"\
+  208  git push\
+  209  git pull\
+  210  Desktop/\
+  211  Syllabus\
+  212  Desktop/\
+  213  ls\
+  214  cd Desktop/\
+  215  cd Syllabus/\
+  216  cd Desktop/\
+  217  git clone https://github.com/IIC2115/Syllabus\
+  218  git add *\
+  219  cd Syllabus\
+  220  git add*\
+  221  git add *\
+  222  git commit -m "resp 0"\
+  223  git push\
+  224  git push\
+  225  git push\
+  226  git push\
+  227  cd Desktop/ Syllabus\
+  228  cd Syllabus\
+  229  cd Desktop/ Syllabus\
+  230  cd Desktop/\
+  231  cd L0/\
+  232  git add *\
+  233  git init\
+  234  git clone https://github.com/IIC2115/Syllabus\
+  235  cd Desktop/\
+  236  git clone https://github.com/sidiaz2/L0.git\
+  237  cd L0\
+  238  git add *\
+  239  git commit -m "se agrego txt"\
+  240  git push\
+  241  git pull\
+  242  history\
+  243  history}
